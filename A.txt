@@ -1,1 +1,3 @@
 the first change in A.txt
+
+change on A.txt in branch second
