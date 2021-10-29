@@ -1,3 +1,4 @@
 the first change in A.txt
 
 change in A on branch master
+change on A.txt in branch second
